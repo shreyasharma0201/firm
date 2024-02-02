@@ -22,6 +22,7 @@ const Details = () => {
   const serviceId = "service_79nwtah";
   const templateId = "template_o8ypzf9";
   const publicKey = "hjiBqI691MMCGe88h";
+  
   const form = useRef();
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');

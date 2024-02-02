@@ -5,11 +5,9 @@ import {
   styled, 
   Typography,
 } from '@mui/material'
-import Link from '@mui/material/Link';
 import FooterTitle from './FooterTitle'
 import FooterLink from './FooterLink'
-import FacebookIcon from '@mui/icons-material/Facebook';
-import InstagramIcon from '@mui/icons-material/Instagram';
+
 
 const Footer = () => {
 

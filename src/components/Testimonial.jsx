@@ -9,7 +9,6 @@ import {
   Stack
 } from "@mui/material";
 import Title from "./Title";
-import Paragraph from "./Paragraph";
 
 
 const Testimonials = () => {

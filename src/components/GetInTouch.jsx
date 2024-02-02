@@ -6,8 +6,7 @@ import {
 import Title from './Title'
 import Paragraph from './Paragraph'
 import { Link } from 'react-router-dom'
-import LocalPhoneRoundedIcon from '@mui/icons-material/LocalPhoneRounded';
-import AlternateEmailRoundedIcon from '@mui/icons-material/AlternateEmailRounded';
+
 
 
 const GetInTouch = () => {

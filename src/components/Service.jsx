@@ -8,7 +8,7 @@ import {
   ListItem,
   Grid,
 } from "@mui/material";
-import CheckCircleRoundedIcon from "@mui/icons-material/CheckCircleRounded";
+
 
 const Service = ({
   head1,
