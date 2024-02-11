@@ -8,7 +8,6 @@ import {
   ListItem,
   Grid,
 } from "@mui/material";
-import CheckCircleRoundedIcon from "@mui/icons-material/CheckCircleRounded";
 import HeadImg from "../../assets/serv7.jpg";
 
 const DIT = () => {
@@ -150,7 +149,7 @@ const DIT = () => {
                     marginRight: 1,
                   }}
                 >
-                  <CheckCircleRoundedIcon />
+                  <span style={{ marginRight: "0.3em", fontSize:"1.5rem"}}>&#x2022;</span>
                   {point}
                 </ListItem>
               ))}
@@ -197,7 +196,7 @@ const DIT = () => {
                     marginRight: 1,
                   }}
                 >
-                  <CheckCircleRoundedIcon />
+                  <span style={{ marginRight: "0.3em", fontSize:"1.5rem"}}>&#x2022;</span>
                   {point}
                 </ListItem>
               ))}

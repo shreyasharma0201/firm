@@ -1,7 +1,7 @@
 import React from "react";
 import Service from "../Service";
 import HeadImg from "../../assets/serv14.jpg";
-import Img from "../../assets/serv13.jpg";
+import Img from "../../assets/serv15.jpg";
 
 const CFO = () => {
   const head1 = "Virtual CFO";

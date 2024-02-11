@@ -8,7 +8,6 @@ import {
 import FooterTitle from './FooterTitle'
 import FooterLink from './FooterLink'
 
-
 const Footer = () => {
 
   const StackColumn = styled(Stack) (() => ({

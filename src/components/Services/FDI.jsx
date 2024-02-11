@@ -1,7 +1,7 @@
 import React from "react";
 import Service from "../Service";
-import HeadImg from "../../assets/img2.jpg";
-import Img from "../../assets/serv5.jpg";
+import HeadImg from "../../assets/serv2.jpg";
+import Img from "../../assets/serv13.jpg";
 
 
 const FDI = () => {

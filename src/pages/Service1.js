@@ -1,10 +1,10 @@
 import React from "react";
-import CSF from '../components/Services/CSF'
+import NGO from '../components/Services/NGO'
 
 const Service1 = () => {
   return (
     <>
-      <CSF/>
+      <NGO/>
     </>
   );
 };

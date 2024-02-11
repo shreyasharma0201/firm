@@ -15,6 +15,8 @@ import Service6 from "./pages/Service6";
 import Service7 from "./pages/Service7";
 import Service8 from "./pages/Service8";
 import Service9 from "./pages/Service9";
+import Service10 from "./pages/Service10";
+import Service11 from "./pages/Service11";
 //componentes
 import Navbar from './components/Navbar';
 import Footer from './components/Footer/Footer';
@@ -31,7 +33,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/team" element={<Team />} />
           <Route
-            path="/about/corporate-secretarial-fema"
+            path="/about/registration-ngos"
             element={<Service1 />}
           />
           <Route path="/about/india-entry-services" element={<Service2 />} />
@@ -59,6 +61,14 @@ function App() {
           <Route
             path="/about/merger-and-amalgamation/"
             element={<Service9 />}
+          />
+          <Route
+            path="/about/licensing-and-registration/"
+            element={<Service11 />}
+          />
+          <Route
+            path="/about/audits/"
+            element={<Service10 />}
           />
         </Routes>
       </BrowserRouter>

@@ -52,8 +52,8 @@ const Content = () => {
 
       <Grid item xs={12} sm={6} md={3}>
         <ServiceCard
-          text="Corporate Secretarial Services"
-          link="/about/corporate-secretarial-fema"
+          text="Registration of NGOs"
+          link="/about/registration-ngos"
         />
       </Grid>
 
@@ -96,7 +96,7 @@ const Content = () => {
 
       <Grid item xs={12} sm={6} md={3}>
         <ServiceCard
-          text="Corporate Legal"
+          text="Corporate Legal compliances"
           link="/about/secretarial-corporate-legal-compliances"
         />
       </Grid>
@@ -152,13 +152,13 @@ const Content = () => {
       </Grid>
 
       <Grid item xs={12} sm={6} md={3}>
-        <ServiceCard text="Registration & Licensing Services" link="/about/#" />
+        <ServiceCard text="Registration & Licensing Services" link="/about/licensing-and-registration" />
       </Grid>
 
       <Grid item xs={12} sm={6} md={3}>
         <ServiceCard
-          text="Regulatory Compliances & Audits Services"
-          link="/about/#"
+          text="Audits Services"
+          link="/about/audits"
         />
       </Grid>
 
